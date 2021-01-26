@@ -7,4 +7,5 @@ SonicWall “Virtual Office” SSL-VPN Products ship a ancient version of Bash v
 
 ## Reference
 https://github.com/darrenmartyn/visualdoor
+
 https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit
